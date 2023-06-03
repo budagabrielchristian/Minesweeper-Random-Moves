@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684351600 source:c:\users\i\desktop\programming\c++\randommovesminesweeper\randommovesminesweeper\main.cpp
+	<algorithm>
+	<iostream>
+	<stdlib.h>
+
